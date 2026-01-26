@@ -1,5 +1,5 @@
 # Atsu Vovor  
-### Applied Artificial Intelligence • Data Science • Cybersecurity Analytics
+### Applied Artificial Intelligence • Data Science • Rare Event Analytics
 
 I am an applied AI and data science practitioner working at the intersection of  
 **cybersecurity analytics, generative AI, anomaly detection, and decision intelligence**.
@@ -39,8 +39,8 @@ My technical work is grounded in the following research areas:
 ### Technical Stack
 - **Languages:** Python, SQL, JavaScript  
 - **ML & Data:** Pandas, NumPy, Scikit-Learn  
-- **Visualization:** Power BI, Plotly, Dash  
-- **MLOps:** Docker, GitHub Actions  
+- **Visualization:** Power BI, Plotly, Dash, Tableau  
+- **MLOps:** Docker, GitHub Actions, Google Colab 
 
 ---
 
