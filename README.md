@@ -102,7 +102,11 @@ These metrics reflect active development, experimentation, and delivery of appli
 
 ### CyberThreat-Insight — High-Level Architecture
 
-![CyberThreat Architecture](https://github.com/atsuvovor/CyberThreat_Insight/blob/main/images/cyber_threat_insight_flowchart.png)
+<p align="center">
+  <img src="https://github.com/atsuvovor/CyberThreat_Insight/blob/main/images/cyber_threat_insight_flowchart.png" 
+       alt="Centered Image" 
+       style="width: 70%; height: auto;">
+</p>
 
 **Pipeline Overview:**
 1. Synthetic cyber event generation  
