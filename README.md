@@ -140,7 +140,6 @@ These metrics reflect active development, experimentation, and delivery of appli
 - **A2I-Insights** — Executive AI analytics  
 - **Rare Events & Synthetic Data Simulators**
 
-👉 View all repositories: https://github.com/atsuvovor?tab=repositories
 ![👉 View all repositories:](https://github.com/atsuvovor?tab=repositories)
 
 ---
