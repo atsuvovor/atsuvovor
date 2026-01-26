@@ -102,7 +102,7 @@ These metrics reflect active development, experimentation, and delivery of appli
 
 ### CyberThreat-Insight — High-Level Architecture
 
-![CyberThreat Architecture](assets/cyberthreat_architecture.png)
+![CyberThreat Architecture](https://github.com/atsuvovor/CyberThreat_Insight/blob/main/images/high_level_cyber_threat_architecture_file_path.png)
 
 **Pipeline Overview:**
 1. Synthetic cyber event generation  
@@ -115,7 +115,7 @@ These metrics reflect active development, experimentation, and delivery of appli
 
 ### DT-Ops — Digital Twin Framework
 
-![DT-Ops Architecture]([images/high_level_cyber_threat_architecture_file_path.png](https://github.com/atsuvovor/CyberThreat_Insight/blob/main/images/high_level_cyber_threat_architecture_file_path.png))
+![DT-Ops Architecture]([images/high_level_cyber_threat_architecture_file_path.png])
 
 **Core Components:**
 - Scenario simulator  
