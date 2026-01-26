@@ -115,7 +115,7 @@ These metrics reflect active development, experimentation, and delivery of appli
 
 ### DT-Ops — Digital Twin Framework
 
-![DT-Ops Architecture](assets/dtops_architecture.png)
+![DT-Ops Architecture]([images/high_level_cyber_threat_architecture_file_path.png](https://github.com/atsuvovor/CyberThreat_Insight/blob/main/images/high_level_cyber_threat_architecture_file_path.png))
 
 **Core Components:**
 - Scenario simulator  
