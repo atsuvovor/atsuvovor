@@ -1,5 +1,5 @@
 # Atsu Vovor  
-### Applied Artificial Intelligence • Data Science • Rare Event Analytics
+### Applied Artificial Intelligence • Data Science • Rare Event Analytics • Independent AI & Data Analytics Project Developer(Open-Source Research) 
 
 I am an applied AI and data science practitioner working at the intersection of  
 **cybersecurity analytics, generative AI, anomaly detection, and decision intelligence**.
@@ -8,7 +8,7 @@ My work emphasizes **rigorous methods, reproducible research, and real-world dep
 
 ---
 
-## Academic Overview
+## Open-Source Research Overview
 
 - Research-driven approach to applied AI systems  
 - Focus on **rare events, adversarial environments, and uncertainty-aware modeling**  
@@ -108,12 +108,16 @@ These metrics reflect active development, experimentation, and delivery of appli
        style="width: 70%; height: auto;">
 </p>
 
-**Pipeline Overview:**
-1. Synthetic cyber event generation  
-2. Feature engineering & labeling  
-3. ML / AI threat detection models  
-4. Threat scoring & classification  
-5. SOC dashboards & executive reports  
+### Pipeline Overview
+
+1. [Synthetic cyber event generation](https://github.com/atsuvovor/CyberThreat-Insight/tree/main/datagen)
+2. [Explanatory Data Analysi](https://github.com/atsuvovor/CyberThreat_Insight/tree/main/explanatory_data_analysis)
+3. [Feature engineering & labeling](https://github.com/atsuvovor/CyberThreat-Insight/tree/main/feature_engineering)
+4. [ML / AI threat detection models](https://github.com/atsuvovor/CyberThreat-Insight/tree/main/model_dev)
+5. [Model Performance Details](https://github.com/atsuvovor/CyberThreat_Insight/blob/main/model_dev/stacked_model/README.md#stacked-supervised-model-performance-details)
+6. [CyberAttack-Insight Simulation](https://github.com/atsuvovor/CyberThreat_Insight/tree/main/cyber_attack_insight)
+7. [SOC dashboards & executive reports](https://github.com/atsuvovor/power_bi_projects/tree/main/docs/cyber_attack_insight)
+
 
 ---
 
