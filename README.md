@@ -151,7 +151,7 @@ I am open to:
 - Applied AI pilots and partnerships  
 - Grants, accelerators, and early-stage ventures
 
-  <h3>📖 Read our Contributor Guide - 💙 View Sponsor & Support Options<</h3>  
+  <h3>📖 Contributor Guide - 💙 View Sponsor & Support Options<</h3>  
 <a href="https://github.com/atsuvovor/CyberThreat_Insight/blob/main/CONTRIBUTING.md" target="_blank">
     <img src="https://img.shields.io/badge/Contributing-Guide-brightgreen" />
   </a>
