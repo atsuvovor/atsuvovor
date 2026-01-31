@@ -1,5 +1,12 @@
-# Atsu Vovor  
+<h1 align="center">Atsu Vovor</h1>
+
 ### Applied Artificial Intelligence • Data Science • Rare Event Analytics • Independent AI & Data Analytics Project Developer(Open-Source Research) 
+
+<p align="center">
+  <img src="https://github.com/atsuvovor/projects_portfolio.github.io/blob/main/UDI_AIIF_logo3.png">
+</p>
+
+#### *This complex visual identity combines the 'Nexus of Data' and 'Bridge Builder' motifs to represent the **centralization of data inputs** and the **AI-augmented synthesis** used to bridge the gap between simulation and real-world insight.*
 
 I am an independent applied AI researcher and developer specializing in rare-event modeling, focusing on the **synthesis, injection, detection, and rigorous evaluation of low-frequency, high-impact phenomena in visual and analytical data**.
 
