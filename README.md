@@ -68,10 +68,10 @@ An end-to-end platform for simulating, detecting, and analyzing cyber threats.
 
 ### CyberThreat-Insight — High-Level Architecture
 
-<p align="center">
+<p>
   <img src="https://github.com/atsuvovor/CyberThreat_Insight/blob/main/images/cyber_threat_insight_flowchart.png" 
        alt="Centered Image" 
-       style="width: 70%; height: auto;">
+       style="width: 40%; height: auto;">
 </p>
 
 ### Pipeline Overview
@@ -136,7 +136,7 @@ CyberThreat-Insight/
 ---
 ### 🔐 Rare Event Computer Vision Analytics Platform  
 
-<p align="center">
+<p>
   <img src="https://github.com/atsuvovor/cv-rare-event-analytics/blob/main/images/RareEventComputerVisionAnalyticsPlatform.png" 
        alt="Centered Image" 
        style="width: 40%; height: auto;">
