@@ -49,7 +49,7 @@ My technical work is grounded in the following research areas:
 
 ---
 
-## Products & Applied Impact
+## Pojects
 
 ### 🔐 CyberThreat-Insight  
 **Generative AI for Anomalous Behavior Detection in Cybersecurity**
@@ -65,8 +65,6 @@ An end-to-end platform for simulating, detecting, and analyzing cyber threats.
 🔗 https://github.com/atsuvovor/CyberThreat-Insight
 
 ---
-
-## System Architecture & Visual Authority
 
 ### CyberThreat-Insight — High-Level Architecture
 
