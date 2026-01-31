@@ -86,38 +86,53 @@ An end-to-end platform for simulating, detecting, and analyzing cyber threats.
 
 
 ---
+## CyberThreat-Insight Products  
 
-### 🧠 DT-Ops — Digital Twin for Operations
-A digital twin framework for simulating operational and security scenarios.
+**AI-Driven Cybersecurity & Operations Intelligence Platform**
 
-![DT-Ops Architecture]([images/high_level_cyber_threat_architecture_file_path.png])
+CyberThreat-Insight is an enterprise-grade platform providing **simulation, analytics, and decision-support tools** for cybersecurity and operational workflows. It integrates three core products:
 
-**Core Components:**
-- Scenario simulator  
-- Risk and outcome modeling  
-- AI-driven optimization layer  
-- Decision visualization  
+## Structure integrating DT-Ops, A2I-Insights, and A2I-Copilot.
 
----
-**Impact:**
-- Test policy and configuration changes pre-deployment  
-- Risk-aware forecasting and optimization  
-- Decision support under uncertainty  
+```
+CyberThreat-Insight/
+├── README.md                   # Main project README
+├── DT-Ops/
+│   ├── README.md               # DT-Ops module README
+│   └── demo_app.py             # Sample app or notebook
+├── A2I-Insights/
+│   ├── README.md               # A2I-Insights module README
+│   └── dashboards_demo.py
+├── A2I-Copilot/
+│   ├── README.md               # A2I-Copilot module README
+│   └── copilot_demo.py
+├── docs/
+│   └── high_level_cyber_threat_architecture.png
+├── LICENSE
+└── .gitignore
+```
 
-🔗 https://github.com/atsuvovor/DT-Ops
+### Modules
 
----
+#### 1. 🧠 DT-Ops — Digital Twin Operations Simulator
+- Simulates operational and security scenarios
+- Risk and outcome modeling
+- AI-driven optimization layer
+- Decision visualization
+[Explore DT-Ops →](./DT-Ops)
 
-### 📊 A2I-Insights & A2I-Copilot  
-**AI-powered analytics and decision intelligence**
+#### 2. 📊 A2I-Insights — Auto-Generated Dashboards
+- Executive dashboards & KPI visualization
+- Automated reporting
+- Data-driven decision insights
+[Explore A2I-Insights →](./A2I-Insights)
 
-**Impact:**
-- Natural-language analytics for executives  
-- Automated KPI interpretation  
-- Faster, clearer decision cycles  
+#### 3. 📊 A2I-Copilot — Conversational AI Assistant
+- RAG-based reasoning
+- Contextual analysis of enterprise datasets
+- Conversational data-exploration assistant
+[Explore A2I-Copilot →](./A2I-Copilot)
 
-🔗 https://github.com/atsuvovor/A2I-Insights  
-🔗 https://github.com/atsuvovor/A2I-Copilot  
 
 ---
 
