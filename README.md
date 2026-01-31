@@ -85,14 +85,13 @@ An end-to-end platform for simulating, detecting, and analyzing cyber threats.
 7. [SOC dashboards & executive reports](https://github.com/atsuvovor/power_bi_projects/tree/main/docs/cyber_attack_insight)
 
 
----
-## CyberThreat-Insight Products  
+#### CyberThreat-Insight Products  
 
 **AI-Driven Cybersecurity & Operations Intelligence Platform**
 
 CyberThreat-Insight is an enterprise-grade platform providing **simulation, analytics, and decision-support tools** for cybersecurity and operational workflows. It integrates three core products:
 
-## Structure integrating DT-Ops, A2I-Insights, and A2I-Copilot.
+#### Structure integrating DT-Ops, A2I-Insights, and A2I-Copilot.
 
 ```
 CyberThreat-Insight/
@@ -112,27 +111,44 @@ CyberThreat-Insight/
 └── .gitignore
 ```
 
-### Modules
+##### Modules
 
 #### 1. 🧠 DT-Ops — Digital Twin Operations Simulator
 - Simulates operational and security scenarios
 - Risk and outcome modeling
 - AI-driven optimization layer
 - Decision visualization
-[Explore DT-Ops →](./DT-Ops)
+[Explore DT-Ops →](https://github.com/atsuvovor/DT-Ops)
 
 #### 2. 📊 A2I-Insights — Auto-Generated Dashboards
 - Executive dashboards & KPI visualization
 - Automated reporting
 - Data-driven decision insights
-[Explore A2I-Insights →](./A2I-Insights)
+[Explore A2I-Insights →]([./A2I-Insights](https://github.com/atsuvovor/A2I-Insights/blob/main/README.md))
 
 #### 3. 📊 A2I-Copilot — Conversational AI Assistant
 - RAG-based reasoning
 - Contextual analysis of enterprise datasets
 - Conversational data-exploration assistant
-[Explore A2I-Copilot →](./A2I-Copilot)
+[Explore A2I-Copilot →](https://github.com/atsuvovor/A2I-Copilot)
 
+
+---
+### 🔐 Rare Event Computer Vision Analytics Platform  
+
+# Rare Event Computer Vision Analytics Platform  
+
+<p align="center">
+  <img src="images/RareEventComputerVisionAnalyticsPlatform.png" 
+       alt="Centered Image" 
+       style="width: 40%; height: auto;">
+</p>
+
+## Overview
+
+This research project focuses on **Computer Vision–driven analytics for detecting, simulating, and analyzing rare, high-impact visual events** in images and video streams. The goal is to bridge the gap between *visual perception models* and *decision-level analytics*, enabling reproducible research and real-world deployment.
+
+The platform combines **synthetic data generation, deep learning–based vision models, and downstream analytics dashboards** to study events that are difficult to capture in real life due to rarity, cost, or safety constraints.
 
 ---
 
@@ -155,6 +171,7 @@ These metrics reflect active development, experimentation, and delivery of appli
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atsuvovor&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=atsuvovor)
+
 ---
 ## Collaboration & Contact
 
@@ -177,14 +194,15 @@ I am open to:
     <img src="https://img.shields.io/badge/Support-Sponsors-ff69b4" />
   </a>
 
-📫 Reach out via GitHub or LinkedIn
+#### 📫 Reach out via GitHub or LinkedIn
 Atsu Vovor  
 Consultant, Data & Analytics    
 ✉️ atsu.vovor@bell.net    
 🔗 <a href="https://www.linkedin.com/in/atsu-vovor-mmai-9188326/" target="_blank">LinkedIn</a> | <a href="https://atsuvovor.github.io/projects_portfolio.github.io/" target="_blank">GitHub</a> | <a href="https://public.tableau.com/app/profile/atsu.vovor8645/vizzes" target="_blank">Tableau Portfolio</a>    
 📍 Mississauga ON      
 
-### Thank you for visiting!🙏
+**Thank you for visiting!🙏**
+
 ---
 
 *Building AI systems that combine scientific rigor with real-world impact.*
