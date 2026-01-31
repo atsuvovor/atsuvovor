@@ -177,16 +177,12 @@ The platform combines **synthetic data generation, deep learning–based vision 
 - **A2I-Insights** — Executive AI analytics  
 - **Rare Event Computer Vision Analytics Platform**
 - ## 📂 All Repositories
-- [CyberThreat-Insight](https://github.com/atsuvovor/CyberThreat-Insight)
-- [A2I-Insights](https://github.com/atsuvovor/A2I-Insights)
-- [A2I-Copilot](https://github.com/atsuvovor/A2I-Copilot)
-- [DT-Ops](https://github.com/atsuvovor/DT-Ops)
+- **CyberThreat-Insight** — [CyberThreat-Insight](https://github.com/atsuvovor/CyberThreat-Insight)
+  Generative AI for cybersecurity analytics  
+- **DT-Ops** — [DT-Ops](https://github.com/atsuvovor/DT-Ops)
+- **A2I-Insights** — [A2I-Insights](https://github.com/atsuvovor/A2I-Insights)
+- **A2I-Insights** — [A2I-Copilot](https://github.com/atsuvovor/A2I-Copilot)
 
-## 📊 GitHub Activity
-![GitHub Stats](...)
-
-## 📂 Full Research & Tools
-👉 View all repositories → https://github.com/atsuvovor?tab=repositories
 ![👉 View all repositories:](https://github.com/atsuvovor?tab=repositories)
 
 ---
