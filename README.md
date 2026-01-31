@@ -1,6 +1,7 @@
 <h1 align="center">Atsu Vovor</h1>
 
-### Applied Artificial Intelligence • Data Science • Rare Event Analytics • Independent AI & Data Analytics Project Developer(Open-Source Research) 
+
+<h4 align="center"> Applied Artificial Intelligence • Data Science • Rare Event Analytics • Independent AI & Data Analytics Project Developer(Open-Source Research)</h4>
 
 <p align="center">
   <img src="https://github.com/atsuvovor/projects_portfolio.github.io/blob/main/UDI_AIIF_logo3.png">
