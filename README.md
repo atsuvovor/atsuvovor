@@ -168,7 +168,7 @@ This research project focuses on **Computer Vision–driven analytics for detect
 
 The platform combines **synthetic data generation, deep learning–based vision models, and downstream analytics dashboards** to study events that are difficult to capture in real life due to rarity, cost, or safety constraints.
 
----
+
 
 ## Selected Repositories
 
