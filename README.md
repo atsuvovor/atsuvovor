@@ -114,6 +114,13 @@ CyberThreat-Insight/
 ##### Modules
 
 #### 1. 🧠 DT-Ops — Digital Twin Operations Simulator
+
+<p>
+  <img src="https://github.com/atsuvovor/DT-Ops/blob/main/images/DT-Ops.png" 
+       alt="Centered Image" 
+       style="width: 40%; height: auto;">
+</p>
+
 - Simulates operational and security scenarios
 - Risk and outcome modeling
 - AI-driven optimization layer
@@ -121,12 +128,25 @@ CyberThreat-Insight/
 [Explore DT-Ops →](https://github.com/atsuvovor/DT-Ops)
 
 #### 2. 📊 A2I-Insights — Auto-Generated Dashboards
+
+<p>
+  <img src="https://github.com/atsuvovor/A2I-Insights/blob/main/images/A2I-Insights.png" 
+       alt="Centered Image" 
+       style="width: 40%; height: auto;">
+</p>
+
 - Executive dashboards & KPI visualization
 - Automated reporting
 - Data-driven decision insights
 [Explore A2I-Insights →]([./A2I-Insights](https://github.com/atsuvovor/A2I-Insights/blob/main/README.md))
 
 #### 3. 📊 A2I-Copilot — Conversational AI Assistant
+<p>
+  <img src="https://github.com/atsuvovor/A2I-Copilot/blob/main/images/A2I-Copilot.png" 
+       alt="Centered Image" 
+       style="width: 40%; height: auto;">
+</p>
+
 - RAG-based reasoning
 - Contextual analysis of enterprise datasets
 - Conversational data-exploration assistant
