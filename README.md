@@ -66,6 +66,29 @@ An end-to-end platform for simulating, detecting, and analyzing cyber threats.
 
 ---
 
+## System Architecture & Visual Authority
+
+### CyberThreat-Insight — High-Level Architecture
+
+<p align="center">
+  <img src="https://github.com/atsuvovor/CyberThreat_Insight/blob/main/images/cyber_threat_insight_flowchart.png" 
+       alt="Centered Image" 
+       style="width: 70%; height: auto;">
+</p>
+
+### Pipeline Overview
+
+1. [Synthetic cyber event generation](https://github.com/atsuvovor/CyberThreat-Insight/tree/main/datagen)
+2. [Explanatory Data Analysi](https://github.com/atsuvovor/CyberThreat_Insight/tree/main/explanatory_data_analysis)
+3. [Feature engineering & labeling](https://github.com/atsuvovor/CyberThreat-Insight/tree/main/feature_engineering)
+4. [ML / AI threat detection models](https://github.com/atsuvovor/CyberThreat-Insight/tree/main/model_dev)
+5. [Model Performance Details](https://github.com/atsuvovor/CyberThreat_Insight/blob/main/model_dev/stacked_model/README.md#stacked-supervised-model-performance-details)
+6. [CyberAttack-Insight Simulation](https://github.com/atsuvovor/CyberThreat_Insight/tree/main/cyber_attack_insight)
+7. [SOC dashboards & executive reports](https://github.com/atsuvovor/power_bi_projects/tree/main/docs/cyber_attack_insight)
+
+
+---
+
 ### 🧠 DT-Ops — Digital Twin for Operations
 A digital twin framework for simulating operational and security scenarios.
 
@@ -91,41 +114,6 @@ A digital twin framework for simulating operational and security scenarios.
 
 ---
 
-## GitHub Activity & Proof of Execution
-
-These metrics reflect active development, experimentation, and delivery of applied AI systems.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atsuvovor&show_icons=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atsuvovor&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=atsuvovor)
-
----
-
-## System Architecture & Visual Authority
-
-### CyberThreat-Insight — High-Level Architecture
-
-<p align="center">
-  <img src="https://github.com/atsuvovor/CyberThreat_Insight/blob/main/images/cyber_threat_insight_flowchart.png" 
-       alt="Centered Image" 
-       style="width: 70%; height: auto;">
-</p>
-
-### Pipeline Overview
-
-1. [Synthetic cyber event generation](https://github.com/atsuvovor/CyberThreat-Insight/tree/main/datagen)
-2. [Explanatory Data Analysi](https://github.com/atsuvovor/CyberThreat_Insight/tree/main/explanatory_data_analysis)
-3. [Feature engineering & labeling](https://github.com/atsuvovor/CyberThreat-Insight/tree/main/feature_engineering)
-4. [ML / AI threat detection models](https://github.com/atsuvovor/CyberThreat-Insight/tree/main/model_dev)
-5. [Model Performance Details](https://github.com/atsuvovor/CyberThreat_Insight/blob/main/model_dev/stacked_model/README.md#stacked-supervised-model-performance-details)
-6. [CyberAttack-Insight Simulation](https://github.com/atsuvovor/CyberThreat_Insight/tree/main/cyber_attack_insight)
-7. [SOC dashboards & executive reports](https://github.com/atsuvovor/power_bi_projects/tree/main/docs/cyber_attack_insight)
-
-
----
-
 ### DT-Ops — Digital Twin Framework
 
 ![DT-Ops Architecture]([images/high_level_cyber_threat_architecture_file_path.png])
@@ -148,7 +136,16 @@ These metrics reflect active development, experimentation, and delivery of appli
 ![👉 View all repositories:](https://github.com/atsuvovor?tab=repositories)
 
 ---
+## GitHub Activity & Proof of Execution
 
+These metrics reflect active development, experimentation, and delivery of applied AI systems.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atsuvovor&show_icons=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atsuvovor&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=atsuvovor)
+---
 ## Collaboration & Contact
 
 I am open to:
