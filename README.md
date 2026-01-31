@@ -1,10 +1,7 @@
 # Atsu Vovor  
 ### Applied Artificial Intelligence • Data Science • Rare Event Analytics • Independent AI & Data Analytics Project Developer(Open-Source Research) 
 
-I am an applied AI and data science practitioner working at the intersection of  
-**cybersecurity analytics, generative AI, anomaly detection, and decision intelligence**.
-
-My work emphasizes **rigorous methods, reproducible research, and real-world deployment**, bridging academic research with enterprise-grade AI systems for security, operations, and executive decision-making.
+I am an independent applied AI researcher and developer specializing in rare-event modeling, focusing on the **synthesis, injection, detection, and rigorous evaluation of low-frequency, high-impact phenomena in visual and analytical data**.
 
 ---
 
