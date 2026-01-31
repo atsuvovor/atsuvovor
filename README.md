@@ -136,10 +136,8 @@ CyberThreat-Insight/
 ---
 ### 🔐 Rare Event Computer Vision Analytics Platform  
 
-# Rare Event Computer Vision Analytics Platform  
-
 <p align="center">
-  <img src="images/RareEventComputerVisionAnalyticsPlatform.png" 
+  <img src="https://github.com/atsuvovor/cv-rare-event-analytics/blob/main/images/RareEventComputerVisionAnalyticsPlatform.png" 
        alt="Centered Image" 
        style="width: 40%; height: auto;">
 </p>
