@@ -90,6 +90,15 @@ An end-to-end platform for simulating, detecting, and analyzing cyber threats.
 ### 🧠 DT-Ops — Digital Twin for Operations
 A digital twin framework for simulating operational and security scenarios.
 
+![DT-Ops Architecture]([images/high_level_cyber_threat_architecture_file_path.png])
+
+**Core Components:**
+- Scenario simulator  
+- Risk and outcome modeling  
+- AI-driven optimization layer  
+- Decision visualization  
+
+---
 **Impact:**
 - Test policy and configuration changes pre-deployment  
 - Risk-aware forecasting and optimization  
@@ -112,24 +121,12 @@ A digital twin framework for simulating operational and security scenarios.
 
 ---
 
-### DT-Ops — Digital Twin Framework
-
-![DT-Ops Architecture]([images/high_level_cyber_threat_architecture_file_path.png])
-
-**Core Components:**
-- Scenario simulator  
-- Risk and outcome modeling  
-- AI-driven optimization layer  
-- Decision visualization  
-
----
-
 ## Selected Repositories
 
 - **CyberThreat-Insight** — Generative AI for cybersecurity analytics  
 - **DT-Ops** — Digital twin for operational risk  
 - **A2I-Insights** — Executive AI analytics  
-- **Rare Events & Synthetic Data Simulators**
+- **Rare Event Computer Vision Analytics Platform**
 
 ![👉 View all repositories:](https://github.com/atsuvovor?tab=repositories)
 
