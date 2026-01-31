@@ -176,7 +176,17 @@ The platform combines **synthetic data generation, deep learning–based vision 
 - **DT-Ops** — Digital twin for operational risk  
 - **A2I-Insights** — Executive AI analytics  
 - **Rare Event Computer Vision Analytics Platform**
+- ## 📂 All Repositories
+- [CyberThreat-Insight](https://github.com/atsuvovor/CyberThreat-Insight)
+- [A2I-Insights](https://github.com/atsuvovor/A2I-Insights)
+- [A2I-Copilot](https://github.com/atsuvovor/A2I-Copilot)
+- [DT-Ops](https://github.com/atsuvovor/DT-Ops)
 
+## 📊 GitHub Activity
+![GitHub Stats](...)
+
+## 📂 Full Research & Tools
+👉 View all repositories → https://github.com/atsuvovor?tab=repositories
 ![👉 View all repositories:](https://github.com/atsuvovor?tab=repositories)
 
 ---
@@ -188,7 +198,11 @@ These metrics reflect active development, experimentation, and delivery of appli
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atsuvovor&layout=compact)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atsuvovor&show_icons=true&theme=default)
+
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=atsuvovor)
+
 
 ---
 ## Collaboration & Contact
