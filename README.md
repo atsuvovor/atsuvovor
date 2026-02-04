@@ -9,7 +9,7 @@
 
 #### *This complex visual identity combines the 'Nexus of Data' and 'Bridge Builder' motifs to represent the **centralization of data inputs** and the **AI-augmented synthesis** used to bridge the gap between simulation and real-world insight.*
 
-I am an independent applied AI researcher and developer specializing in rare-event modeling, focusing on the **synthesis, injection, detection, and rigorous evaluation of low-frequency, high-impact phenomena in visual and analytical data**.
+I am an independent applied AI developer specializing in rare-event modeling, focusing on the **synthesis, injection, detection, and rigorous evaluation of low-frequency, high-impact phenomena in visual and analytical data**.
 
 ---
 
