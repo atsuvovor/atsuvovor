@@ -180,14 +180,14 @@ The platform combines **synthetic data generation, deep learning–based vision 
   Executive AI analytics  
 - [A2I-Copilot](https://github.com/atsuvovor/A2I-Copilot)
 
-![👉 View all repositories:](https://github.com/atsuvovor?tab=repositories)
+[👉 View all repositories:](https://github.com/atsuvovor?tab=repositories)
 
 ---
 ## GitHub Activity & Proof of Execution
 
 These metrics reflect active development, experimentation, and delivery of applied AI systems.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atsuvovor&show_icons=true&hide_title=true)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=atsuvovor&show_icons=true&hide_title=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atsuvovor&layout=compact)
 
