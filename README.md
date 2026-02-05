@@ -188,19 +188,11 @@ The platform combines **synthetic data generation, deep learning–based vision 
 Ongoing development, experimentation, and deployment of applied AI systems  
 with a focus on rare-event modeling, computer vision, and production-ready pipelines.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atsuvovor&show_icons=true&hide_title=true&count_private=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atsuvovor&show_icons=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsuvovor&layout=compact&langs_count=6" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atsuvovor&layout=compact)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=atsuvovor" />
-</p>
-
-
+![GitHub Streak](https://streak-stats.demolab.com?user=atsuvovor)
 
 ---
 ## Collaboration & Contact
