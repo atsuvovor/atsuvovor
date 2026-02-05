@@ -192,7 +192,9 @@ with a focus on rare-event modeling, computer vision, and production-ready pipel
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atsuvovor&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=atsuvovor)
+![GitHub Streak](https://streak-stats.demolab.com?user=atsuvovor)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atsuvovor&show_icons=true)
 
 ---
 ## Collaboration & Contact
