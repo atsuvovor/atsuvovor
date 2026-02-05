@@ -187,14 +187,14 @@ The platform combines **synthetic data generation, deep learning–based vision 
 
 These metrics reflect active development, experimentation, and delivery of applied AI systems.
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=atsuvovor&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atsuvovor&show_icons=true&hide_title=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atsuvovor&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atsuvovor&show_icons=true&theme=default)
-
+![GitHub Stats (Theme)](https://github-readme-stats.vercel.app/api?username=atsuvovor&show_icons=true&theme=default)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=atsuvovor)
+
 
 
 ---
