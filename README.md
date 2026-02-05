@@ -185,15 +185,20 @@ The platform combines **synthetic data generation, deep learning–based vision 
 ---
 ## GitHub Activity & Proof of Execution
 
-These metrics reflect active development, experimentation, and delivery of applied AI systems.
+Ongoing development, experimentation, and deployment of applied AI systems  
+with a focus on rare-event modeling, computer vision, and production-ready pipelines.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atsuvovor&show_icons=true&hide_title=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atsuvovor&show_icons=true&hide_title=true&count_private=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atsuvovor&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsuvovor&layout=compact&langs_count=6" />
+</p>
 
-![GitHub Stats (Theme)](https://github-readme-stats.vercel.app/api?username=atsuvovor&show_icons=true&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=atsuvovor)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=atsuvovor" />
+</p>
 
 
 
