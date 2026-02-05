@@ -11,9 +11,9 @@
 
 I am an independent applied AI developer specializing in rare-event modeling, focusing on the **synthesis, injection, detection, and rigorous evaluation of low-frequency, high-impact phenomena in visual and analytical data**.
 
----
 
-## Open-Source Research Overview
+
+# Open-Source Research Overview
 
 - Research-driven approach to applied AI systems  
 - Focus on **rare events, adversarial environments, and uncertainty-aware modeling**  
@@ -22,7 +22,7 @@ I am an independent applied AI developer specializing in rare-event modeling, fo
 
 Based in Canada • English & French bilingual
 
----
+
 
 ## Research & Methods
 
@@ -47,11 +47,10 @@ My technical work is grounded in the following research areas:
 - **Visualization:** Power BI, Plotly, Dash, Tableau  
 - **MLOps:** Docker, GitHub Actions, Google Colab 
 
----
 
-## Pojects
+# Pojects
 
-### 🔐 CyberThreat-Insight  
+## 1.  🔐 CyberThreat-Insight  
 **Generative AI for Anomalous Behavior Detection in Cybersecurity**
 
 An end-to-end platform for simulating, detecting, and analyzing cyber threats.
@@ -64,7 +63,7 @@ An end-to-end platform for simulating, detecting, and analyzing cyber threats.
 
 🔗 https://github.com/atsuvovor/CyberThreat-Insight
 
----
+
 
 ### CyberThreat-Insight — High-Level Architecture
 
@@ -85,7 +84,7 @@ An end-to-end platform for simulating, detecting, and analyzing cyber threats.
 7. [SOC dashboards & executive reports](https://github.com/atsuvovor/power_bi_projects/tree/main/docs/cyber_attack_insight)
 
 
-#### CyberThreat-Insight Products  
+### CyberThreat-Insight Products  
 
 **AI-Driven Cybersecurity & Operations Intelligence Platform**
 
@@ -111,7 +110,7 @@ CyberThreat-Insight/
 └── .gitignore
 ```
 
-##### Modules
+#### Modules
 
 #### 1. 🧠 DT-Ops — Digital Twin Operations Simulator
 
@@ -153,8 +152,8 @@ CyberThreat-Insight/
 [Explore A2I-Copilot →](https://github.com/atsuvovor/A2I-Copilot)
 
 
----
-### 🔐 Rare Event Computer Vision Analytics Platform  
+
+# 2. 🔐 Rare Event Computer Vision Analytics Platform  
 
 <p>
   <img src="https://github.com/atsuvovor/cv-rare-event-analytics/blob/main/images/RareEventComputerVisionAnalyticsPlatform.png" 
@@ -182,8 +181,8 @@ The platform combines **synthetic data generation, deep learning–based vision 
 
 [👉 View all repositories:](https://github.com/atsuvovor?tab=repositories)
 
----
-## GitHub Activity & Proof of Execution
+
+# GitHub Activity & Proof of Execution
 
 Ongoing development, experimentation, and deployment of applied AI systems  
 with a focus on rare-event modeling, computer vision, and production-ready pipelines.
@@ -198,8 +197,8 @@ with a focus on rare-event modeling, computer vision, and production-ready pipel
 ![GitHub Streak](https://streak-stats.demolab.com?user=atsuvovor)
 
 
----
-## Collaboration & Contact
+
+# Collaboration & Contact
 
 I am open to:
 - Academic research collaborations  
@@ -220,7 +219,7 @@ I am open to:
     <img src="https://img.shields.io/badge/Support-Sponsors-ff69b4" />
   </a>
 
-#### 📫 Reach out via GitHub or LinkedIn
+# 📫 Reach out via GitHub or LinkedIn
 Atsu Vovor  
 Consultant, Data & Analytics    
 ✉️ atsu.vovor@bell.net    
