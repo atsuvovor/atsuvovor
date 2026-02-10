@@ -11,8 +11,8 @@
 
 I am an independent applied AI developer specializing in rare-event modeling, focusing on the **synthesis, injection, detection, and rigorous evaluation of low-frequency, high-impact phenomena in visual and analytical data**.
 
-[![Visite NexSimAlgo](https://img.shields.io/badge/Open%20in%20Browser-2563eb?style=for-the-badge)](https://atsuvovor.github.io/NSA/nexsimalgo.html)
-[![Open my Portfolio](https://img.shields.io/badge/Open%20in%20Browser-2563eb?style=for-the-badge)](https://atsuvovor.github.io/projects_portfolio.github.io/#)
+[![Visite NexSimAlgo](https://img.shields.io/badge/Visite%20NexSimAlgo-2563eb?style=for-the-badge)](https://atsuvovor.github.io/NSA/nexsimalgo.html)
+[![Open my Portfolio](https://img.shields.io/badge/Open%20my%20Portfolio-2563eb?style=for-the-badge)](https://atsuvovor.github.io/projects_portfolio.github.io/#)
 
 # Open-Source Research Overview
 
